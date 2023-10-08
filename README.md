@@ -3,6 +3,8 @@ Deep learning project for classifying different types of fish species based on t
 
 Which has been fine-tuned to achieve high accuracy in fish classification. Whether you're a marine biologist, a wildlife enthusiast, or just interested in image classification, this project provides a powerful tool for automatic fish species recognition.
 
+* Trained_Model_Weights: https://drive.google.com/file/d/19lbc49_ZoALYsRzhrhwU2xeSAkWnhmIO/view?usp=sharing
+
 # Key Features:
 
 * Leverages the VGG16 architecture, a proven choice for image classification tasks.
